@@ -19,9 +19,6 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-  - documentation/elements.html
-  - documentation/docs.md
 
 
 ### Author Info ###
@@ -58,11 +55,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-  podcasts:
-    output: true
-    permalink: /podcast/:name
 
 ### Disqus ###
 disqus: jaimefco                          # Your website Shortname on disqus
@@ -85,11 +77,6 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-  - scope:
-      path: ""
-      type: "podcasts"
-    values:
-      layout: "podcast"
 
 ### Exclude from processing ###
 exclude:
