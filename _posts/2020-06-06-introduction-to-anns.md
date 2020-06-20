@@ -106,11 +106,3 @@ Los valores de entrada de la red neuronal, no es mas el dato que tenemos; en el 
 Ya solo resta saber cómo encontrar esos pesos $w$'s. Una forma de hacerlo es minimizando el error de equivocarnos, que para los que saben matemáticas, se puede hacer usando información de la derivada de la red. Pero esta parte la dejaremos para otra entrada  donde nos meteremos en los detalles de las redes neuronales.
 
 Como nota adicional, cabe resaltar que esta arquitectura no es la única. Hay arquitecturas que se alejan más de este enfoque biológico, como una Red Convolucional, o una Red Recurrente. Pero creo que este primer acercamiento a la redes neuronales es bastante conveniente para principiantes.
-
-
-
-## Utilidades
-
-Ya que sabemos qué demonios es una red neuronal artificial, es momento de hablar de su utilidad. Actualmente este tipo de arquitecturas te las encuentras hasta en la sopa. Cada vez que Netflix te sugiere una nueva serie basado en el contenido que has visto, en los coches autónomos para la segmentación y clasificación de objetos, se usan para análisis de imágenes médicas, para encontrar medicinas, para la detección oportuna de enfermedades, están también dentrás de las aplicaciones que te hacen ver más viejo en las fotos e incluso están ganandole a profesionales del Go.
-
-Y esto, es solo una fracción del conjunto de todos los métodos de Inteligencia Artificial que existen, y que algún día, podrían rebasar a la capacidad del cerebro humano, entrando así en un crecimiento acelerado en tecnología. Algo que, estoy seguro, discutiremos en algún momento en este blog, o en mi podcast. Si aún no has escuchado mis episodios, te dejo el enlace de [JF live!](/podcast/)
