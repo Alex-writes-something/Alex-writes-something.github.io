@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Alex Writes Something
 description         : >-
-                      "Politólogo 👨🏽‍💻, las matemáticas,
+                      "Political Scientist 👨🏽‍💻, las matemáticas,
                       la física y la lectura. #Nerdfighter.
                       Escritor amateur 📝 y buen amigo 🖖🏾"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -23,26 +23,26 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Jaime Fco Aguayo
+  name              : Alex Ramírez
   image             : https://scontent.fbjx1-1.fna.fbcdn.net/v/t1.0-9/52345112_10216262500667085_8357957769050980352_n.jpg?_nc_cat=107&_nc_sid=85a577&_nc_eui2=AeF7k_N9SIvsv0B_LrYs8vwYv9DcycCWF0e_0NzJwJYXR-DLbIVm69nwC0Ye3BKUYZU&_nc_ohc=lwpmnNuhHggAX9H6gUg&_nc_ht=scontent.fbjx1-1.fna&oh=6fc24177a6e3e7ae77f9f5d9694edf3d&oe=5EF5AFD4
 # behance           : your_username
 # dribbble          : your_username
-  email             : jaimefaguayo@hotmail.com
-  facebook          : jaime.fag
-  github            : JaimeFco
+  email             : m.alex.rmz@icloud.com
+# facebook          : jaime.fag
+  github            : Alex-writes-something
 # gitlab            : your_username
-  instagram           : ijaimefco
+  instagram         : alexkonnichiwa
 # kaggle            : your_username
 # linkedin          : your_username
 # medium            : iJaimeFco
 # soundcloud        : your_username
-  spotify           : 1285425450
+# spotify           : 1285425450
 # stackoverflow     : your_user_id
-  tumblr            : historiasdeunavida.tumblr.com
+# tumblr            : historiasdeunavida.tumblr.com
 # twitch            : your_username
-  twitter           : iJaimeFco
+  twitter           : alexkonnichiwa
 # vimeo             : your_username
-  youtube           : channel/UCq-QDT1S3MdaR12DChoitDg
+#  youtube           : channel/UCq-QDT1S3MdaR12DChoitDg
 
 
 ### Posts ###
