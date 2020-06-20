@@ -13,18 +13,18 @@ remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
 plugins:
   - jemoji
 
-
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/projects.html
 
 
 ### Author Info ###
 author:
   name              : Alex Ramírez
-  image             : https://scontent.fbjx1-1.fna.fbcdn.net/v/t1.0-9/52345112_10216262500667085_8357957769050980352_n.jpg?_nc_cat=107&_nc_sid=85a577&_nc_eui2=AeF7k_N9SIvsv0B_LrYs8vwYv9DcycCWF0e_0NzJwJYXR-DLbIVm69nwC0Ye3BKUYZU&_nc_ohc=lwpmnNuhHggAX9H6gUg&_nc_ht=scontent.fbjx1-1.fna&oh=6fc24177a6e3e7ae77f9f5d9694edf3d&oe=5EF5AFD4
+  image             : https://scontent.fbjx1-1.fna.fbcdn.net/v/t1.0-9/93255474_3171053869623794_2957715505969889280_n.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_eui2=AeEUPWsxXVkm9RSTouk3ls-FKlHknqLB1vgqUeSeosHW-GNe0BgL0YaStTERECSK3Jw&_nc_ohc=c7LlY-qcip4AX-rUJno&_nc_ht=scontent.fbjx1-1.fna&oh=d99ea82e48823b1e8d1c4a82997aa8f6&oe=5F1142E0
 # behance           : your_username
 # dribbble          : your_username
   email             : m.alex.rmz@icloud.com
@@ -62,16 +62,11 @@ disqus: jaimefco                          # Your website Shortname on disqus
 
 ### Defaults for collections ###
 defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  # - scope:
+  #     path: ""
+  #     type: "projects"
+  #   values:
+  #     layout: "page"
   - scope:
       path: ""
       type: "posts"
