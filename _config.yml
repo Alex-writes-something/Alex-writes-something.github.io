@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Alex Writes Something
 description         : >-
-                      "Political Scientist 👨🏽‍💻, las matemáticas,
-                      la física y la lectura. #Nerdfighter.
-                      Escritor amateur 📝 y buen amigo 🖖🏾"
+                      "Interested in philosophy, politics and economics 
+                      and the intersection among them. I have several non-requested opinions on several topics.
+                      Almost a Bachelor in Political Science."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Alex-writes-something/alex-writes-something.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
