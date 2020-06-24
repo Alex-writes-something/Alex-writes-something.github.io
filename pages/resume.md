@@ -54,5 +54,5 @@ LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobi
 - ENGLISH. 700/800, Universidad de Guanajuato (CAMBRIDGE B2*). 
 - JAPANESE. 600/600, Universidad de Guanajuato (JLPT N4*).
 
-* *Pending cenrtifications*
+* *Pending certifications*
 
