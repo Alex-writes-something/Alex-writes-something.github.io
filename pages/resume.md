@@ -1,3 +1,10 @@
+---
+layout: page
+title: Résumé
+permalink: /resume/
+weight: 3
+---
+
 # Résumé 
 
 *Last update: June 2020*
