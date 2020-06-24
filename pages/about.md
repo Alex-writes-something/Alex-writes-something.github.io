@@ -15,10 +15,10 @@ Un día simplemente dije «Vamos a escribir cosas entretenidas», y por eso hice
 
 
 % <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+%{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+%{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 %</div>
 
 %<div class="row">
-{% include about/timeline.html %}
+%{% include about/timeline.html %}
 %</div>
