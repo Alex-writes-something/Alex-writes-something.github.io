@@ -44,7 +44,7 @@ LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobi
 
 ### TALKS AND EVENTS
 
-- ¿SON LAS UNIVERSIDADES UN ESPACIO SEGURO, LIBRE DE VIOLENCIA Y DISCRIMINACIÓN PARA LA DIVERSIDAD SEXUAL Y DE GÉNERO? Facultad de Ciencias Políticas y Sociales, Universidad Autónoma de Querétaro. *October 24, 2019*.
+- [¿SON LAS UNIVERSIDADES UN ESPACIO SEGURO, LIBRE DE VIOLENCIA Y DISCRIMINACIÓN PARA LA DIVERSIDAD SEXUAL Y DE GÉNERO?][https://www.facebook.com/watch/?v=2364582356973259] Facultad de Ciencias Políticas y Sociales, Universidad Autónoma de Querétaro. *October 24, 2019*.
 - [CONSTRUCCIÓN DE ESPACIOS SEGUROS: RECONOCIMIENTO DE LOS DERECHOS LGBTI](https://www.aseg.gob.mx/noticias/2019/06/brindan-conferencia-construccion-de-espacios-seguros-reconocimiento-de-los-derechos-lgbti-a-miembros-de-aseg/). Auditoría Superior del Estado de Guanajuato. *June 24, 2019*.
 - ¿A QUÉ ME PUEDO DEDICAR COMO POLITÓLOG@?. División de Derecho, Política y Gobierno, Universidad de Guanajuato. *May 15, 2019*.
 - ELECCIÓN SOCIAL: ¿CÓMO SABER LO QUE QUIERE LA GENTE? Escuela de Nivel Medio Superior de Guanajuato. *May 18, 2018*.
