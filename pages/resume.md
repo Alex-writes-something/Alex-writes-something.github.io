@@ -13,7 +13,7 @@ weight: 3
 
 LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobierno. División de Derecho, Política y Gobierno. Universidad de Guanajuato. *2015 - Present*.
 
-#### CLASSES TAKEN AS A LISTENER
+##### *CLASSES TAKEN AS A LISTENER*
 
 - ECONOMÍA DEL SECTOR PÚBLICO (emphasis on Public Finance). Coralia Azucena Quintero Rojas, Ph. D. Departamento de Economía y Finanzas, Universidad de Guanajuato. *Fall 2018*.
 - ECONOMÍA DEL SECTOR PÚBLICO (emphasis on Implementation). Luis Sánchez Mier, Ph. D. Departamento de Economía y Finanzas, Universidad de Guanajuato. *Fall 2019*.
@@ -45,7 +45,7 @@ LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobi
 ### TALKS AND EVENTS
 
 - ¿SON LAS UNIVERSIDADES UN ESPACIO SEGURO, LIBRE DE VIOLENCIA Y DISCRIMINACIÓN PARA LA DIVERSIDAD SEXUAL Y DE GÉNERO? Facultad de Ciencias Políticas y Sociales, Universidad Autónoma de Querétaro. *October 24, 2019*.
-- CONSTRUCCIÓN DE ESPACIOS SEGUROS: RECONOCIMIENTO DE LOS DERECHOS LGBTI. Auditoría Superior del Estado de Guanajuato. *June 24, 2019*.
+- [CONSTRUCCIÓN DE ESPACIOS SEGUROS: RECONOCIMIENTO DE LOS DERECHOS LGBTI](https://www.aseg.gob.mx/noticias/2019/06/brindan-conferencia-construccion-de-espacios-seguros-reconocimiento-de-los-derechos-lgbti-a-miembros-de-aseg/). Auditoría Superior del Estado de Guanajuato. *June 24, 2019*.
 - ¿A QUÉ ME PUEDO DEDICAR COMO POLITÓLOG@?. División de Derecho, Política y Gobierno, Universidad de Guanajuato. *May 15, 2019*.
 - ELECCIÓN SOCIAL: ¿CÓMO SABER LO QUE QUIERE LA GENTE? Escuela de Nivel Medio Superior de Guanajuato. *May 18, 2018*.
 
@@ -58,8 +58,10 @@ LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobi
 
 ### SKILLS
 
-- ENGLISH. 700/800, Universidad de Guanajuato (CAMBRIDGE B2*). 
-- JAPANESE. 600/600, Universidad de Guanajuato (JLPT N4*).
+- ENGLISH. 700/800, Universidad de Guanajuato (CAMBRIDGE B2). *
+- JAPANESE. 600/600, Universidad de Guanajuato (JLPT N4). *
 
-* *Pending certifications*
+Pending certifications
+
+
 
