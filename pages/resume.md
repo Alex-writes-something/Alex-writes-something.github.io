@@ -23,9 +23,9 @@ LICENCIATURA EN CIENCIA POLÍTICA. Departamento de Estudios Políticos y de Gobi
 
 - CERTELL INTERNATIONAL. Summer Internship Program. *Present*.
 - MUSEO ICONOGRÁFICO DEL QUIJOTE. Community Manager and Cultural Projects Assistant, particularly for the XXIX Coloquio Cervantino Internacional PR and diffusion team. *2019*.
-- RESEARCH ASSISTANT. Professor Ericka López Sánchez, Departamento de Estudios Políticos y de Gobierno. *2019*.
+- [RESEARCH ASSISTANT](https://reformaspoliticas.org/diversidades/). Professor Ericka López Sánchez, Departamento de Estudios Políticos y de Gobierno. *2019*.
 - ENLACE DE UNIDAD TÉCNICA DE FISCALIZACIÓN INE GUANAJUATO. Administrative assistant. *2018*.
-- COMISIÓN DE VIVIENDA DEL ESTADO DE GUANAJUATO. Technical assistant for the "Fondo para el Financiamiento de la Urbanización Progresiva" program design evaluation. *2017-2018*.
+- [COMISIÓN DE VIVIENDA DEL ESTADO DE GUANAJUATO](https://www.ugto.mx/campusgto/noticias-gto/2564-alumnos-y-docentes-universitarios-entregan-evaluacion-de-programas-a-la-coveg). Technical assistant for the "Fondo para el Financiamiento de la Urbanización Progresiva" program design evaluation. *2017-2018*.
 - RESEARCH ASSISTANT. Professor Jesús Aguilar López, Departamento de Estudios Políticos y de Gobierno. *2016-2017*.
 
 ### ACADEMIC ACTIVITIES (PARTICIPANT)
