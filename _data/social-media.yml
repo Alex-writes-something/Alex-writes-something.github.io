@@ -41,6 +41,11 @@ kaggle:
   icon  : fab fa-kaggle
   color : 20beff
 
+ko-fi:
+  url   : https://ko-fi.com/
+  icon  : fab fa-mug-hot
+  color : 00abe4
+
 linkedin:
   url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
