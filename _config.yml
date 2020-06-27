@@ -4,7 +4,7 @@ description         : >-
                       "Me interesa la filosofía, la política y la economía y la intersección entre ellas.
                       Tengo opiniones que nadie pidió sobre muchas cosas. Casi politólogo."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Alex-writes-something/alex-escribe-cosas.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : Alex-writes-something/Alex-escribe-cosas.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
 
 
