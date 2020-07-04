@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /resume/
-weight: 3
+weight: 2
 ---
 
 # Curriculum  
