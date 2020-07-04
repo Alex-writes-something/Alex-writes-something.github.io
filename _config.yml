@@ -48,7 +48,8 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
-
+### Curriculum ###
+permalink: /CV/:title
 
 ### Collections ###
 collections:
