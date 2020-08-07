@@ -12,5 +12,5 @@ typora-root-url: /Users/alexramirez/Documents/GitHub/Alex site/pictures
 
 <img src="/../../../../../../../../pictures/D18E2A71-C0FA-4E91-9626-9F6DB17F9856.jpeg" alt="D18E2A71-C0FA-4E91-9626-9F6DB17F9856" style="zoom:50%;" />
 
-Soy politólogo de formación, así que supongo mis textos tendrán una orientación hacia esa disciplina. Disclaimer: no quiero ponerme la etiqueta de objetivo–este blog es mi espacio para dar mis opiniones y comenzar una conversación. ¡Pueden [escribirme](mailto: alexwritesomething@icloud.com) para hacerlo posible!
+Soy politólogo de formación, así que supongo mis textos tendrán una orientación hacia esa disciplina. Disclaimer: no quiero ponerme la etiqueta de objetivo–este blog es mi espacio para dar mis opiniones y comenzar una conversación. ¡Pueden [escribirme](mailto: alexwritessomething@icloud.com) para hacerlo posible!
 
