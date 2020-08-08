@@ -5,7 +5,7 @@ permalink: /resume/
 weight: 2
 ---
 
-# Curriculum  VITAE
+# Curriculum  Vitae
 
 *Última actualización: Agosto 2020*
 
