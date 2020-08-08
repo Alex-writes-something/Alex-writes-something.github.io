@@ -10,7 +10,7 @@ typora-root-url: /Users/alexramirez/Documents/GitHub/Alex site/pictures
 
 
 
-<img src="/../../../../../../../../pictures/D18E2A71-C0FA-4E91-9626-9F6DB17F9856.jpeg" alt="Alex Ramírez" align="right" style="zoom:30%;" />
+<img src="/../../../../../../../../pictures/D18E2A71-C0FA-4E91-9626-9F6DB17F9856.jpeg" alt="Alex Ramírez" align="right" style="zoom:20%;" />
 
 ¡Hola! Soy **{{ site.author.name }}** :wave:. Después de aplazar este proyecto por varias semanas, al fin me decidí por compartir mis opiniones en este blog. Así que aquí podrán leer mis comentarios sobre las situaciones y tendencias que observo en mi país y en el mundo.
 
