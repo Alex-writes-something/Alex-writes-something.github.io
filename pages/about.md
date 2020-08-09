@@ -8,7 +8,7 @@ typora-root-url: /Users/alexramirez/Documents/GitHub/Alex site/pictures
 
 # **Sobre mí**
 
-<img src="/../../../../../../../../pictures/IMG_3703.jpeg" alt="Alex Ramírez" align="right" style="zoom:33%;" /> 
+<img src="/../../../../../../../../pictures/AlexR.jpeg" alt="Alex Ramírez" align="right" style="zoom:33%;"/>
 
 
 
