@@ -18,9 +18,9 @@ MathJax.Hub.Config({
   <b>
   {%- assign words = content | number_of_words -%}
   {%- if words < 320 -%}
-    less than 1 min read time
+    menos de 1 min de lectura
   {%- else -%}
-    {{ words | divided_by: 160 }} mins read time
+    {{ words | divided_by: 160 }} mins de lectura
   {%- endif -%}
   </b>
 
