@@ -8,7 +8,7 @@ description: Pero todo el mundo tiene algo qué aportar.
 
 ---
 
-<img src="/Users/alexramirez/Documents/GitHub/Alex site/pictures/blog-activismo.jpeg" alt="blog-activismo" style="zoom:67%;" /> 
+![blog-activismo](/Users/alexramirez/Documents/GitHub/Alex site/pictures/blog-activismo.jpeg) 
 
 
 
