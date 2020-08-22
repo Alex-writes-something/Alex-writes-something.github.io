@@ -14,7 +14,7 @@ MathJax.Hub.Config({
 <h1><b>{{ page.title }}</b></h1>
 
 <p class="post-metadata text-muted">
-  {{ fecha_page }} -
+  {{ page.date | fecha_page }} -
   <b>
   {%- assign words = content | number_of_words -%}
   {%- if words < 320 -%}
