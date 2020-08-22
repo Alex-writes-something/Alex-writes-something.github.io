@@ -49,6 +49,6 @@ Cabe recordar que tomar uno de esos roles no significa que no sea posible realiz
 
 Cuando afirmé que no todo el mundo quiere ser activista lo hice pensando en el activismo como una vocación que exige un alto grado de compromiso y de disponibilidad. Por ello era justificable que algunas personas se abrumaran y prefirieran ser defensoras solamente –me incluyo en esto. Pero si se contempla como una labor en la que pueden participar personas de los más diferentes perfiles, resulta menos intimidante y más atractivo para que todes puedan participar.
 
-Además, al revisar la lista de Iyer me di cuenta que lo que yo entendía como activismo era sólo el rol de tejedorxs. Y no todes ocupar ese rol, sino dedicar uno más acorde a sus fortalezas. Cada uno de los perfiles son valiosos y necesarios para crear un ecosistema de cambio social.
+Además, al revisar la lista de Iyer me di cuenta que lo que yo entendía como activismo era sólo el rol de tejedorxs. Y no todes desean ocupar ese rol, sino que buscan uno más acorde a sus fortalezas. Cada uno de los perfiles son valiosos y necesarios para crear un **ecosistema de cambio social**.
 
 Definir a una activista como una persona con sofisticación política, una red de contactos amplia y el tiempo suficiente para promover los derechos humanos de un grupo de personas vulneradas es exigir demasiado. Pueden existir personas que en efecto reúnan todas esas características, pero ciertamente más que un perfil de activista lo que se necesitan son tareas específicas que pueden coincidir con las aptitudes de cualquier persona. 
