@@ -16,5 +16,5 @@ typora-root-url: /Users/alexramirez/Documents/GitHub/Alex site/pictures
 
 Estudié ciencia política, así que –supongo– mis textos tendrán una orientación hacia esa disciplina. Disclaimer: no quiero ponerme la etiqueta de objetivo–este blog es mi espacio para dar mis opiniones y comenzar una conversación. <br>
 
-¡Pueden [escribirme](mailto: alexwritessomething@icloud.com) para hacerlo posible!
+¡Pueden [escribirme](mailto: m.alex.rmz@icloud.com) para hacerlo posible!
 
