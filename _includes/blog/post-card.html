@@ -43,8 +43,8 @@
       </p>
     </div>
     <div class="card-footer {{ text_style }}">
-      {{ post.date | date: "%-d" }}
-      {% assign m = post.date | date: "%-m " %}
+      {{ post.date | date: "%-d " }}
+      {% assign m = post.date | date: "%-m" %}
       {% case m %}
         {% when '1' %}Enero
         {% when '2' %}Febrero
