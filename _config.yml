@@ -11,6 +11,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-seo-tag
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
