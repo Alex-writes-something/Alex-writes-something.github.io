@@ -2,8 +2,8 @@
 title: No todo el mundo quiere ser activista
 tags: [activismo, capacidades, ]
 date: 2020-08-21
-style: fill
-color: info
+style: border
+color: warning
 description: Pero todo el mundo tiene algo qué aportar.
 
 ---

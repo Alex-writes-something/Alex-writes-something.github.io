@@ -2,8 +2,8 @@
 title: Privilegios y derechos
 tags: [blog, privilegios]
 date: 2020-08-09
-style: fill
-color: success
+style: border
+color: warning
 description: Hay algo con el discurso de los privilegios que no termina de convencerme.
 ---
 
